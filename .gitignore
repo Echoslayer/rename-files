@@ -1,0 +1,6 @@
+ENVrename/
+__pycache__/
+test_folder/
+build/
+.DS_Store
+*.app
